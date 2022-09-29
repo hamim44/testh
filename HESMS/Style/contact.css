@@ -1,0 +1,105 @@
+.box-wrapper {
+    display: flex;
+    margin: 27px;
+    justify-content: space-around;
+  }
+
+  .box { 
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    background: #aaa;
+  }
+
+  .contact_us{
+
+    width: 96%;
+    display: block;
+    background-color: #60828675;
+    margin: 25px;
+    padding: 1px;
+    background-color: #ffd4b1;
+  }
+
+  .contact_us h2{
+
+    text-align: center;
+    font-size: 37px;
+    margin-top: 16px;
+    color: black;
+    font-style: oblique;
+    font-weight: bold;
+  }
+
+
+* {box-sizing:border-box}
+
+
+.container {
+  width: 89%;
+  background-color: #ddd;
+  border-radius: 22px;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+}
+
+dev.box.one {
+      background-color: #29C5F6;
+      text-align: center;
+      font-size: 33px;
+  }
+
+dev.box.one a {
+    text-decoration: none;
+    color: #000000;
+  }
+
+dev.box.two {
+    background-color: #d4f0f7;
+    text-align: center;
+    font-size: 33px;
+}
+
+dev.box.two a {
+  color: #000000;
+  text-decoration: none;
+}
+
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: 435px;
+}
+
+dev.box.three {
+  background-color: #d0d5f7;
+  text-align: center;
+  font-size: 33px;
+}
+
+dev.box.three a {
+  color: #000000;
+  text-decoration: none;
+}
+
+
+.contact-section  {
+      padding: 3px;
+      text-align: center;
+      color: white;
+      text-decoration: none;
+      line-height: 32.6px;
+    
+    }
+
+.contact-section a {
+
+  text-decoration: none;
+  color: #000000;
+  font-size: 24px;
+
+}
